@@ -8,3 +8,7 @@
 ![KakaoTalk_20201231_101900222](https://user-images.githubusercontent.com/52098204/103389440-2845da00-4b52-11eb-8168-0058da42e6fb.png)
 ![KakaoTalk_20201231_101903620](https://user-images.githubusercontent.com/52098204/103389441-28de7080-4b52-11eb-961b-95fd418459ad.png)
 ![KakaoTalk_20201231_101908747](https://user-images.githubusercontent.com/52098204/103389442-29770700-4b52-11eb-8ddb-546bd925fa4d.png)
+![수식1](https://user-images.githubusercontent.com/52098204/103392382-f25c2200-4b60-11eb-95f0-3d89b98a64e2.png)
+![수식2](https://user-images.githubusercontent.com/52098204/103392384-f38d4f00-4b60-11eb-833e-4cae0ae0f97d.png)
+![수식3](https://user-images.githubusercontent.com/52098204/103392385-f425e580-4b60-11eb-914e-28f24cdaaa84.png)
+
